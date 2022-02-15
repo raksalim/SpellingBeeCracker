@@ -4,3 +4,9 @@ This is an application that gives you a cheat sheet to NYT's Spelling Bee: https
 2) Enter the required letter
 3) Enter the other letters. no spaces. just all in one line
 4) Hit Enter. It should print everything out(length order) as well as save all the answers (alphabetical order) in a file.
+
+Example: 
+
+![Alt text](./ExampleImages/ExapleSpellingBee.png?raw=true "Puzzle")
+
+![Alt text](./ExampleImages/ExampleExecution.png?raw=true "Execution")
