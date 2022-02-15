@@ -10,3 +10,6 @@ Example:
 ![Alt text](./ExampleImages/ExapleSpellingBee.png?raw=true "Puzzle")
 
 ![Alt text](./ExampleImages/ExampleExecution.png?raw=true "Execution")
+
+Plus a file shows up with all possible answers written there :) Have fun!
+
